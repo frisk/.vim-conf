@@ -1,12 +1,12 @@
 [submodule "minibufexpl"]
-        path = bundle/minibufexpl.vim
+        path = .vim/bundle/minibufexpl.vim
         url = https://github.com/fholgado/minibufexpl.vim
 [submodule "nerdtree"]
-        path = bundle/nerdtree
+        path = .vim/bundle/nerdtree
         url = https://github.com/scrooloose/nerdtree
 [submodule "vim-jade"]
-        path = bundle/vim-jade
+        path = .vim/bundle/vim-jade
         url = https://github.com/digitaltoad/vim-jade
 [submodule "vim-monokai"]
-        path = bundle/vim-monokai
+        path = .vim/bundle/vim-monokai
         url = https://github.com/sickill/vim-monokai
